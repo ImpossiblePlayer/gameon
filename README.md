@@ -1,2 +1,2 @@
-# [GameOn](https://impossibleplayer.github.io/gameon)\
+# [GameOn](https://impossibleplayer.github.io/gameon)
 website for the gameschool
